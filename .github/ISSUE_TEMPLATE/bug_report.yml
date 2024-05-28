@@ -5,7 +5,8 @@ labels: ['bug']
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this bug report!
+      value: 
+        Thanks for taking the time to fill out this bug report!
         we will take care of it as soon as possible.
   - type: textarea
     id: what-happened
@@ -28,7 +29,6 @@ body:
       required: true
   - type: dropdown
     id: browsers
-    attributes:
       label: What browsers are you seeing the problem on if you're using web version?
       multiple: true
       options:
