@@ -1,5 +1,5 @@
 name: Bug Report/Bug 反馈
-description: File a bug report
+description: File a bug report/将您所看到的Bug提交
 title: "\u200b"
 labels: ['bug']
 body:
