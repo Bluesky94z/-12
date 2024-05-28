@@ -1,6 +1,6 @@
-name: Bug Report/Bug 反馈
+name: 🐞Bug Report/🐞Bug 反馈
 description: File a bug report/将您所看到的Bug提交
-title: "\u200b"
+title: "Add a title/添加标题"
 labels: ['bug']
 body:
   - type: markdown
