@@ -34,9 +34,9 @@ body:
     id: logs
     attributes:
       label: Relevant log output/相关日志输出
-      description: 
-      Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      您可以复制黏贴跟Bug相关的日志输出。在这将自动格式化为代码。
+      description: |
+        Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+        您可以复制黏贴跟Bug相关的日志输出。在这将自动格式化为代码。
       render: shell
   - type: textarea
     attributes:
