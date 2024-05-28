@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report/Bug 反馈
 description: File a bug report
 title: "\u200b"
 labels: ['bug']
@@ -12,37 +12,21 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-    validations:
-      required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Distribution version
-      description: What version of AFFiNE are you using?
-      options:
-        - macOS x64 (Intel)
-        - macOS ARM 64 (Apple Silicon)
-        - Windows x64
-        - Linux
-        - Web (app.affine.pro)
-        - Web (affine.fail)
-        - Web (insider.affine.pro)
+      label: What happened?/Bug描述？
+      description: Also tell us, what did you expect to happen?/将Bug内容进行描述
+      placeholder: Tell us what you see!/Bug详情描述
     validations:
       required: true
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on if you're using web version?
+      label: What's the version of your bug?/发生Bug所在的版本是？
       multiple: true
       options:
-        - Chrome
-        - Microsoft Edge
-        - Firefox
-        - Safari
-        - Other
+        - v1.3.4.1
+        - v1.3.3.2
+        - v1.3.3.1
+        - I don't know the version./我不知道哪个版本
   - type: textarea
     id: logs
     attributes:
