@@ -1,19 +1,20 @@
-name: Bug Report/Bug 反馈
+name: Bug Report
 description: File a bug report
 title: "\u200b"
 labels: ['bug']
 body:
   - type: markdown
     attributes:
-      value: 
+      value: |
         Thanks for taking the time to fill out this bug report!
-        we will take care of it as soon as possible.
+        Check out this [link](https://github.com/toeverything/AFFiNE/blob/canary/docs/issue-triaging.md)
+        to learn how we manage issues and when your issue will be processed.
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?/Bug内容
+      label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!/Bug内容填写在这
+      placeholder: Tell us what you see!
     validations:
       required: true
   - type: dropdown
@@ -22,13 +23,18 @@ body:
       label: Distribution version
       description: What version of AFFiNE are you using?
       options:
-        - v1.3.4.1
-        - v1.3.3.2
-        - v1.3.3.1
+        - macOS x64 (Intel)
+        - macOS ARM 64 (Apple Silicon)
+        - Windows x64
+        - Linux
+        - Web (app.affine.pro)
+        - Web (affine.fail)
+        - Web (insider.affine.pro)
     validations:
       required: true
   - type: dropdown
     id: browsers
+    attributes:
       label: What browsers are you seeing the problem on if you're using web version?
       multiple: true
       options:
@@ -37,8 +43,6 @@ body:
         - Firefox
         - Safari
         - Other
-  - type: checkboxes
-    id: selfhost
   - type: textarea
     id: logs
     attributes:
