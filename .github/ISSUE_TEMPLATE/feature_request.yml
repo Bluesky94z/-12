@@ -40,4 +40,4 @@ body:
         See the Balala [Contributing Guide](https://github.com/toeverything/affine/blob/canary/CONTRIBUTING.md) to get started.
         (可选) 我们鼓励您提交[Pull Request](/) (PR) 来帮助我们改进Balala，特别是如果您非常了解如何实现修复或者某个功能。请参考Balala[Contributing Guide](/) 开始使用
       options:
-        - label: Yes I'd like to help by submitting a PR!
+        - label: Yes I'd like to help by submitting a PR!/我愿意！
