@@ -1,12 +1,10 @@
 <div align="center"><a name="readme-top"></a>
 
 [![](https://github.com/freeCB/balala/blob/main/balala%E7%9A%84banner.jpg)](https://github.com/freeCB/balala)
-
-logo链接<h1>Blala</h1>
+## <img src="https://github.com/Bluesky94z/-12/blob/master/balala%20%E7%9A%84logo.jpg" width="18px">  Blala
 
 让项目变得更加轻便<br/>
-打造专业高效的**管理平台**（[这是链接](https://github.com/freeCB/balala)）插件系统<br/>
-这是一条很长的文字
+打造专业高效的**管理平台**（[Link](https://github.com/freeCB/balala)）<br/>
 
 [English](https://github.com/freeCB/balala/blob/main/README.md) · **简体中文** · [更新日志](https://github.com/freeCB/balala/releases) · [文档](https://github.com/freeCB/balala/releases) ·  [Bug反馈](https://github.com/freeCB/balala/issues) · [讨论专区](https://github.com/freeCB/balala/discussions)
 <!-- SHIELD GROUP -->
@@ -120,6 +118,7 @@ Copyright © 2023 [Balala][profile-link]. <br />
 
 <!-- LINK GROUP -->
 
+[logo]: https://github.com/Bluesky94z/-12/blob/master/balala%20%E7%9A%84logo.jpg=width="15px"
 [GitHub Release]: https://img.shields.io/github/v/release/freeCB/balala?style=flat-square&labelColor=%23000000&color=%2375FA61
 [GitHub Release link]: https://github.com/freeCB/balala/releases
 [web vercel]: https://img.shields.io/badge/build-online-brightgreen?style=flat-square&logo=vercel&label=Balala&labelColor=%23000000&color=%2373FBFD
