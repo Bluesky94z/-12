@@ -29,16 +29,17 @@
 </details>
 <div align="left">
 
-## 👋🏻 开始使用 & 交流
+## 👋🏻 开始使用
 >我们是一群充满热情的设计工程师<br/>
 >希望为企业管理提供现代化的设计组件和工具，并以开源的方式分享。<br/>
 >我们希望能够为开发者和用户提供一个更加开放、更加透明友好的产品生态。<br/>
 
 不论普通用户与专业开发者，Balala 旨在寻找更便捷的项目管理办法。
-Balala目前正在积极开发中，有任何需求或者问题，欢迎提交 [issues][issues-link]
+Balala目前正在积极开发中，<br/>
+有任何需求或者问题，欢迎提交 [issues][issues-link]
 <br/>
 <br/>
-## ✨目录结构
+### ✨目录结构
 ```
 + balala
   + .env                // 启动配置文件
@@ -46,7 +47,7 @@ Balala目前正在积极开发中，有任何需求或者问题，欢迎提交 [
   + README.md           // 项目说明
 ```
 
-## 📘开始：
+### 📘开始：
 
 ```
 git clone https://github.com/freeCB/balala.git
@@ -78,7 +79,7 @@ docker compose restart
 ```
 
 
-## 🧩启动配置修改
+### 🧩启动配置修改
 配置文件：.env
 ```
 # 项目名称
@@ -110,6 +111,20 @@ update config set value = "new title" where config_key = "balala.title";
 ```sql
 update config set value = "https://example.com" where config_key = "notify.redirect.domain";
 ```
+
+</details>
+<div align="left">
+ <br />
+
+## 👋🏻 交流--合作
+⭐️如果你有更多的奇思妙想，也许你认可这个产品并想持续关注，又或者纯粹吃瓜<br/>
+🤝那么加入我们吧<br/>
+> 联系邮箱：2023czdesign@gmail.com<br/>
+> Discord：待更新<br/>
+> QQ：待更新<br/>
+> 微信：待更新<br/>
+<br/>
+
 
 
 </details>
