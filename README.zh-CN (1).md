@@ -39,15 +39,8 @@ Balala目前正在积极开发中，<br/>
 有任何需求或者问题，欢迎提交 [issues][issues-link]
 <br/>
 <br/>
-### ✨目录结构
-```
-+ balala
-  + .env                // 启动配置文件
-  + compose.yaml        // docker-compose配置文件
-  + README.md           // 项目说明
-```
 
-### 📘开始：
+### 📘Docker快速开始：
 
 ```
 git clone https://github.com/freeCB/balala.git
@@ -56,6 +49,7 @@ git clone https://github.com/freeCB/balala.git
 ```
 cd balala
 ```
+
 ### 🤖启动
 ```
 docker compose up -d
@@ -67,6 +61,14 @@ docker compose up -d
 ⚡️超级管理员
 >用户名：**super**<br/>
 >初始密码：**Passw@rd**
+<br/>
+### ✨目录结构
+```
++ balala
+  + .env                // 启动配置文件
+  + compose.yaml        // docker-compose配置文件
+  + README.md           // 项目说明
+```
 
 ### 📘停止
 ```
