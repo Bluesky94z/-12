@@ -131,7 +131,7 @@ update config set value = "https://example.com" where config_key = "notify.redir
 
 </details>
 
-Copyright © 2023 [Balala][profile-link]. <br />
+Copyright (c) 2024, CZ·DESGIN. <br />
 
 <!-- LINK GROUP -->
 
