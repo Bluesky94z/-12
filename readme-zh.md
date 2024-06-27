@@ -11,17 +11,22 @@
 
 <!-- logo && tittle -->
 
-# <div align="center" style="font-size:22px; width:100%; display: flex; flex-direction: row; flex-wrap: nowrap; align-content: center; justify-content: center; align-items: center; "><img src="https://github.com/freeCB/balala/raw/main/logo.jpg" style="border-radius:4px; width:32px; margin-right: 8px" > Balala ｜协作效率标准化管理工具</div>
-
-<!-- 快捷跳转 -->
-<div align="center" style="font-size:16px; width:100%; display: flex; flex-direction: row; flex-wrap: nowrap; align-content: center; justify-content: center; align-items: center; ">
-
-[English](https://github.com/freeCB/balala/blob/main/README.zh-EN.md) · **简体中文** · [更新日志](https://github.com/freeCB/balala/releases) · [文档](https://github.com/freeCB/balala/releases) · [BUG 反馈](https://github.com/freeCB/balala/issues) · [讨论专区](https://github.com/freeCB/balala/discussions)· [⚡️ 快速部署](https://github.com/freeCB/balala?tab=readme-ov-file#快速部署)
+<div align="center" >
+  
+# <img src="https://github.com/freeCB/balala/raw/main/logo.jpg" style="border-radius:4px; width:32px; margin-right: 8px;" > Balala｜协作效率标准化管理工具
 
 </div>
+
+<!-- 快捷跳转 -->
+<div align="center">
+
+[English](https://github.com/freeCB/balala/blob/main/README.zh-EN.md) · **简体中文** · [更新日志](https://github.com/freeCB/balala/releases) · [文档](https://github.com/freeCB/balala/releases) · [BUG 反馈](https://github.com/freeCB/balala/issues) · [讨论专区](https://github.com/freeCB/balala/discussions)· ⚡️[快速部署](https://github.com/freeCB/balala?tab=readme-ov-file#快速部署)
+
+</div>
+
 <!-- 版本/数据 -->
 
-<div align="center" style="width:100%; display: flex; flex-direction: row; flex-wrap: nowrap; align-content: center; justify-content: center; align-items: center; "><span class="line">
+<div align="center"">
 
 [![GitHub Release]][GitHub Release link]&#8194;
 [![web vercel]][web vercel link]&#8194;
@@ -29,12 +34,11 @@
 [![GitHub issues]][GitHub issues link]&#8194;
 [![GitHub star]][GitHub star link]&#8194;
 
-</span>
 </div>
 
 <!--  快捷分享 -->
 
-<div align="center" style="width:100%; display: flex; flex-direction: column; flex-wrap: nowrap; align-content: center; justify-content: center; align-items: center; ">
+<div align="center">
 
 <!-- **分享 Balala 给你的好友** -->
 
