@@ -20,7 +20,7 @@
 <!-- 快捷跳转 -->
 <div align="center">
 
-[English](https://github.com/freeCB/balala/blob/main/README.zh-EN.md) · **简体中文** · [更新日志](https://github.com/freeCB/balala/releases) · [文档](https://github.com/freeCB/balala/releases) · [BUG 反馈](https://github.com/freeCB/balala/issues) · [讨论专区](https://github.com/freeCB/balala/discussions)· ⚡️[快速部署](https://github.com/freeCB/balala?tab=readme-ov-file#快速部署)
+[English](https://github.com/freeCB/balala/blob/main/README.zh-EN.md) · **简体中文** · [更新日志](https://github.com/freeCB/balala/releases) · [文档](https://github.com/freeCB/balala/releases) · [BUG 反馈](https://github.com/freeCB/balala/issues) · [讨论专区](https://github.com/freeCB/balala/discussions)· ⚡️[快速部署](https://github.com/Bluesky94z/-12/blob/master/readme-zh.md#%EF%B8%8F-%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2)
 
 </div>
 
